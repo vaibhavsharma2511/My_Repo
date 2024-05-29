@@ -1,1 +1,1 @@
-# My Name is Vaibhav Sharma
+# I am doing AI course from Durham College
